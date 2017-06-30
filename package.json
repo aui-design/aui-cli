@@ -1,0 +1,7 @@
+{
+  "name": "aui-cli",
+  "version": "0.0.1",
+  "description": "AUI command line.",
+  "main": "index.js",
+  "license": "MIT"
+}
