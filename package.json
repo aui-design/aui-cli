@@ -3,5 +3,7 @@
   "version": "0.0.1",
   "description": "AUI command line.",
   "main": "index.js",
+  "repository": "git@github.com:aui-design/aui-cli.git",
+  "author": "前道 <xscripter@163.com>",
   "license": "MIT"
 }
